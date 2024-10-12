@@ -9,4 +9,5 @@ body {
     height: 100vh;
     background-color: hsl(233, 47%, 7%);
     color: hsl(0, 0%, 100%);
+    font-family: "Inter", sans-serif;
 }
